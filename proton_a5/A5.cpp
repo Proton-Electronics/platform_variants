@@ -21,7 +21,7 @@
   Modified 2020 by Greyson Christoforo (grey@christoforo.net) to implement timeouts
 */
 
-#include "pins_arduino.h"
+#include "A5.h"
 //#include "Arduino.h”
 
 Proton_Arduino_PLC::Proton_Arduino_PLC()
